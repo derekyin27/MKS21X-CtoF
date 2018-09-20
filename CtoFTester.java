@@ -1,5 +1,5 @@
 public class CtoFTester {
     public static void main(String[] args) {
-    celsiusToFahrenheit(int C);
-    fahrenheitToCelsius(int F);
+    public integer celsiusToFahrenheit(int C);
+    public integer fahrenheitToCelsius(int F);
     
